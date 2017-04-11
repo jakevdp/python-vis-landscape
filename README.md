@@ -6,7 +6,7 @@ Code for my talk at PyCon 2017
 
 Set up with conda:
 
-    $ conda create -n vis-talk python=3.6 jupyter notebook numpy pip
+    $ conda create -n vis-talk python=3.5 jupyter notebook numpy
     $ source activate vis-talk
 
 ## Individual Packages
@@ -49,7 +49,7 @@ Install [altair](http://altair-viz.github.io/):
 
 ## Others
 
-- Leaning toward domain-specific: Mayavi, GlueViz, YT, yellowbrick
+- Leaning toward domain-specific: Mayavi, GlueViz, YT, yellowbrick, scikit-plot
 
 - JS in the Jupyter notebook: ipyvolume, pythreejs, ipyleaflet
 
