@@ -49,8 +49,8 @@ Install [altair](http://altair-viz.github.io/):
 
 ## Others
 
-- Leaning toward domain-specific: Mayavi, GlueViz, YT
+- Leaning toward domain-specific: Mayavi, GlueViz, YT, yellowbrick
 
 - JS in the Jupyter notebook: ipyvolume, pythreejs, ipyleaflet
 
-- Large-scale viz: VisPy, Datashader, Vaex
+- Large-scale viz: VisPy, Datashader, Vaex, glumpy
